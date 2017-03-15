@@ -1,0 +1,84 @@
+body{
+	background: #fff;
+}
+.navbar{
+	background: #fff;
+}
+.carousel{
+	margin-top: 49px;
+	background: #223240;
+}
+.carousel-inner img{
+	margin:0 auto;
+}
+.carousel-inner .item:nth-child(1){
+	background: #223240;
+}
+.carousel-inner .item:nth-child(2){
+	background: #F1DED4;
+}
+.carousel-inner .item:nth-child(3){
+	background: #D7272A;
+}
+
+.top-bg{
+	padding: 0;
+}
+
+.why{
+	text-align: center;
+	line-height: 30px;
+
+}
+
+.why h2{
+	color:#0059b2;
+}
+.table .media{
+	margin-top:40px;
+}
+.media-body h4{
+	margin-top:15px;
+}
+.media-body p{
+	text-decoration:line-through;
+	font-size:12px;
+	color:#666;
+	line-height: 20px;
+	margin-top:10px;
+}
+.study{
+	background: #eee;
+	padding-top:70px;
+	padding-bottom: 50px;
+	width:100%;
+}
+.study h3{
+	margin-top:50px;
+	color: #666868;
+}
+.study h4{
+	color: #666868;
+	line-height: 30px;
+}
+.study-center{
+	text-align: center;
+}
+.perfect{
+	padding: 50px 0px;
+}
+.perfect h3{
+
+	margin-top:50px;
+	color: #666868;
+
+}
+.perfect h4{
+
+	line-height: 30px;
+	color: #666868;
+
+}
+.perfect-center{
+	text-align: center;
+}

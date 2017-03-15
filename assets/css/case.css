@@ -1,0 +1,10 @@
+.middle{
+	margin-top:40px;
+}
+.middle .middle1 h4,p{
+	text-align: center;
+	color:#666;
+}
+body{
+	background: #eee;
+}
